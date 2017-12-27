@@ -9,16 +9,16 @@ This will be a blockchain cryptocurrency that will be entirely powered in JavaSc
 
 ```javascript
 /* - = - = - *
- * Kudos
+ * Kudos Ḳ
  * - = - = - */
 
 var Kudos = function(k){
 
-	const k 			= 'k';
-	const kudos 		= k + 'currency.kudos'
-	const symbol 		= 'K'
-	const ext 			= '.k.currency'
-	const ext_wallet 	= '.k.wallet.dat'
+	const k			= 'k';
+	const kudos		= k + 'currency.kudos'
+	const symbol		= 'Ḳ'
+	const ext		= '.k.currency'
+	const ext_wallet	= '.k.wallet.dat'
 
 	const currency_cap = 77,000,000
 	const currency_digit = 1
