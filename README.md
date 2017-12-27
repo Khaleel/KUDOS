@@ -1,10 +1,13 @@
-# KUDOS
-Kudos cryptocurrency
+# KUDOS Ḳ
+Kudos cryptocurrency (Ḳ)
 
 # WHAT IS KUDOS
-Kudos is a private cryptocurrency that is purely powered and built in Node JS and JavaScript.
+Kudos (Ḳ) is a private cryptocurrency that is purely powered and built in Node JS and JavaScript.
 There will be a marketing cap of 77 million and a network max transaction of 1 million per second.
-This will be a blockchain cryptocurrency that will be entirely powered in JavaScript and will be done in 0.00000007 seconds.. that is why we limit to 77 million as this will be rapid and almost instant realtime
+This will be a blockchain cryptocurrency that will be entirely powered in JavaScript and will be done in 0.00000007 seconds.. that is why we limit to 77 million as this will be rapid and almost instant realtime.
+
+# CURRENCY
+Alias association is dotk, kudos, Ḳ
 
 
 ```javascript
